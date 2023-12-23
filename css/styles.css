@@ -1,0 +1,41 @@
+/* private lessons */
+* {
+    
+}
+.pl-payment-container {
+    display: flex;
+
+    flex-direction: row;
+    justify-content: center;
+    gap: 100px;
+}
+
+.pl-info-title-text {
+
+}
+
+.pl-schedule-pay-container {
+    display: flex;
+    
+    flex-flow: row wrap;
+    justify-content: center;
+    gap: 100px;
+}
+
+.scan {
+    filter: invert(100%);
+}
+
+.calendar-container {
+    background-color: rgb(255, 255, 255, .3);
+}
+
+.pl-table-container {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+
+  .pl-table-container h3{
+    color: white;
+  } 
